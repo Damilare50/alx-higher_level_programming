@@ -9,5 +9,3 @@ def remove_char_at (str, n):
         i += 1
 
     return new_str
-
-print(remove_char_at(str="Hello", n=3))
